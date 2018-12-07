@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WangyiMusic</string>
+    <string name="log_in">手机号登录</string>
+    <string name="register">注册</string>
+</resources>
